@@ -1,0 +1,38 @@
+Telcome (Databel) Customers Churn 
+
+1: Does the count of unique customers equal to the count of customers 
+2: Encoding the Churn label column into 1 and 0 to make it easy to use 
+3: what is total number of churned customers 
+4: Calculate churn rate 
+5: investigate churn different reasons 
+6: what is the big reason that make customers churned 
+7:investigate different churn category 
+8: investigate churn rate by state to identify which state has the hightest churn rate 
+9:split ages to 3 categories to create demographics column 
+10: investigate the churn rate over demographics categories 
+11: investigate churn rate over age bins 
+12: which age bin has the highest churn rate 
+13: which age bin has the highest number of customers 
+14: churn rate for each gender
+15: investigate average Monthly charges for customers in groups and number of customers per group
+16:investigate churn rate over customers groups
+17:which group size has the lowest churn rate
+18:investigate churn rate by each Contract Category
+19:investigate how customers differ in churn rate by looking at their Contract type and gender 
+20:does people who are in unlamited plan are more likely to churn
+21:catrgorized average gp cosumption to less than 5 gp , between 5 and 10 gp , 10 or more gp
+22:investigate churn rate by new Grouped gp consumption  and unlimated plan types
+23:What's the churn rate for people on an unlimited plan who consume less than 5 GB of data?
+24:Analyze the international activity of customers and it's relationship to churn. and if paying for an international plan influences their loyalty.
+25:investigate customer's payment method 
+26:investigate customer's contract type 
+27:investigate how many months a person is a customer
+28: investigate if churn rate decress over time ( Account lenght months)
+29: investigate how this decrease behaves through the different type of contract 
+30:investigate the number of customers for different payment Method
+31:Which state has the highest churn rate for customers who have month-to-month contract types? Answer with the state's abbreviation and the churn rate percentage rounded to zero decimal places (e.g., DN xx%).
+32:What's the churn rate (in %) for customers who are not in a group plan, that belong to the age group 50, and who have an account length of 12 months or less? (Answer format: XX.XX%)
+33:What's the average number of customer service calls for customers who are on a monthly contract and pay by direct debit? (Answer format: 1.11) and What is the churn rate for those customers?
+34:What are the average extra data charges (two decimal points) for customers who are not on an unlimited data plan and consumed 10 or more gigabyte?
+35:Which state has the highest churn rate and yet the lowest sum of customer service calls? And what is the number of total customer service calls for that state? (Answer format: AA 00) USING GRADIANT BUBBLE COLOR
+
