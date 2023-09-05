@@ -44,8 +44,8 @@ I hope this helps!
 </p>
 <img src="/assets/Page1.png" />
 <img src="/assets/Page2-1.png" />
-<img src="assets/Page3-1.png" />
-<img src="assets/Page4-1.png" />
+<img src="/assets/Page3-1.png" />
+<img src="/assets/Page4-1.png" />
 
 
 
